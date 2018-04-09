@@ -1,1 +1,0 @@
-This are the practice codes, that i studied for an exam.
