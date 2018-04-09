@@ -1,2 +1,1 @@
-# py-practice
-Example code I practiced for tests
+This are the practice codes, that i studied for an exam.
